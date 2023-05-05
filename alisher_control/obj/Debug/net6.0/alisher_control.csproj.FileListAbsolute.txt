@@ -1,0 +1,15 @@
+/Users/aliser/Desktop/Control_Final/alisher_control/bin/Debug/net6.0/alisher_control
+/Users/aliser/Desktop/Control_Final/alisher_control/bin/Debug/net6.0/alisher_control.deps.json
+/Users/aliser/Desktop/Control_Final/alisher_control/bin/Debug/net6.0/alisher_control.runtimeconfig.json
+/Users/aliser/Desktop/Control_Final/alisher_control/bin/Debug/net6.0/alisher_control.dll
+/Users/aliser/Desktop/Control_Final/alisher_control/bin/Debug/net6.0/alisher_control.pdb
+/Users/aliser/Desktop/Control_Final/alisher_control/obj/Debug/net6.0/alisher_control.csproj.AssemblyReference.cache
+/Users/aliser/Desktop/Control_Final/alisher_control/obj/Debug/net6.0/alisher_control.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliser/Desktop/Control_Final/alisher_control/obj/Debug/net6.0/alisher_control.AssemblyInfoInputs.cache
+/Users/aliser/Desktop/Control_Final/alisher_control/obj/Debug/net6.0/alisher_control.AssemblyInfo.cs
+/Users/aliser/Desktop/Control_Final/alisher_control/obj/Debug/net6.0/alisher_control.csproj.CoreCompileInputs.cache
+/Users/aliser/Desktop/Control_Final/alisher_control/obj/Debug/net6.0/alisher_control.dll
+/Users/aliser/Desktop/Control_Final/alisher_control/obj/Debug/net6.0/refint/alisher_control.dll
+/Users/aliser/Desktop/Control_Final/alisher_control/obj/Debug/net6.0/alisher_control.pdb
+/Users/aliser/Desktop/Control_Final/alisher_control/obj/Debug/net6.0/alisher_control.genruntimeconfig.cache
+/Users/aliser/Desktop/Control_Final/alisher_control/obj/Debug/net6.0/ref/alisher_control.dll
